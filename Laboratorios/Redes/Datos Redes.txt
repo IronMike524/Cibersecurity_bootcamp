@@ -1,0 +1,38 @@
+Datos Redes
+
+comandos:
+
+nslookup nombrepc
+netstat
+tracert dns
+
+ping ip (envio de paquetes)
+
+ping ip -t (envio de paquetes sostenido)
+
+ipconfig /all (datos adaptadores red)
+
+ipconfig /all | find "Descripción" (nombre adaptadores red)
+
+hostname (nombre host)
+
+getmac (direccion fisica mac)
+
+arp /a (direcciones ARP Address Resolution Protocol ip asignadas)
+
+nslookup nombrepç (diagnostico infraestructura red y nombre dominio)
+
+netstat (conexiones activas ip y puertos al pc)
+
+tracert nombrepç (diagnostico rutas destino)
+
+pathping nombrepç (latencia red)
+
+Hostname: Jarvis
+
+Ip: 
+
+Mac: 0CB727D4-D8EC-4735-9D21-FE5ADE84F214
+
+
+
